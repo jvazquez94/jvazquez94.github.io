@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dron
+* source:	https://sketchfab.com/3d-models/dron-4f8692ab1a0148829f250d2da6ce0227
+* author:	Messerhawke (https://sketchfab.com/Messerhawke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dron" (https://sketchfab.com/3d-models/dron-4f8692ab1a0148829f250d2da6ce0227) by Messerhawke (https://sketchfab.com/Messerhawke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
